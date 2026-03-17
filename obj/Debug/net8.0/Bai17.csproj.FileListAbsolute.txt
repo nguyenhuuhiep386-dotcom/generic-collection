@@ -1,0 +1,14 @@
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\bin\Debug\net8.0\Bai17.exe
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\bin\Debug\net8.0\Bai17.deps.json
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\bin\Debug\net8.0\Bai17.runtimeconfig.json
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\bin\Debug\net8.0\Bai17.dll
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\bin\Debug\net8.0\Bai17.pdb
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\obj\Debug\net8.0\Bai17.GeneratedMSBuildEditorConfig.editorconfig
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\obj\Debug\net8.0\Bai17.AssemblyInfoInputs.cache
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\obj\Debug\net8.0\Bai17.AssemblyInfo.cs
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\obj\Debug\net8.0\Bai17.csproj.CoreCompileInputs.cache
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\obj\Debug\net8.0\Bai17.dll
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\obj\Debug\net8.0\refint\Bai17.dll
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\obj\Debug\net8.0\Bai17.pdb
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\obj\Debug\net8.0\Bai17.genruntimeconfig.cache
+D:\225_TL\LTC#\BT Generic collection\Phan3\Bai17\obj\Debug\net8.0\ref\Bai17.dll
