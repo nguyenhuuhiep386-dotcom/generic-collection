@@ -1,0 +1,14 @@
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\bin\Debug\net8.0\Bai13.exe
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\bin\Debug\net8.0\Bai13.deps.json
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\bin\Debug\net8.0\Bai13.runtimeconfig.json
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\bin\Debug\net8.0\Bai13.dll
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\bin\Debug\net8.0\Bai13.pdb
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\obj\Debug\net8.0\Bai13.GeneratedMSBuildEditorConfig.editorconfig
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\obj\Debug\net8.0\Bai13.AssemblyInfoInputs.cache
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\obj\Debug\net8.0\Bai13.AssemblyInfo.cs
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\obj\Debug\net8.0\Bai13.csproj.CoreCompileInputs.cache
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\obj\Debug\net8.0\Bai13.dll
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\obj\Debug\net8.0\refint\Bai13.dll
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\obj\Debug\net8.0\Bai13.pdb
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\obj\Debug\net8.0\Bai13.genruntimeconfig.cache
+D:\225_TL\LTC#\BT Generic collection\Phan2\Bai13\obj\Debug\net8.0\ref\Bai13.dll
